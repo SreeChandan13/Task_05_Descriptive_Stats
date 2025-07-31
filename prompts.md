@@ -1,27 +1,27 @@
 1. What was Syracuse's overall record for the season?
 Syracuse's overall record for the season was 18-3.
 
-2. How many goals did the Syracuse team score in total, and how many did their opponents score?
+4. How many goals did the Syracuse team score in total, and how many did their opponents score?
 Syracuse scored a total of 337 goals. Their opponents scored 201 goals.
 
-3. Which player had the highest number of points (Goals + Assists)?
+5. Which player had the highest number of points (Goals + Assists)?
 Meaghan Tyrrell had the highest number of points with 107 (55 Goals + 52 Assists).
 
-4. What was Syracuse's shot percentage for the season?
+6. What was Syracuse's shot percentage for the season?
 Syracuse's shot percentage was .497.
 
-5. How many games did Syracuse play at home, and what was their home record?
+7. How many games did Syracuse play at home, and what was their home record?
 Syracuse played 13 games at home, and their home record was 12-1.
 
-6. What was the total attendance for all Syracuse home games, and what was the average attendance per date?
+8. What was the total attendance for all Syracuse home games, and what was the average attendance per date?
 The total attendance for all Syracuse home games was 20662. The average attendance per date was 1589 over 13 dates.
 
 
-7. How many saves did Syracuse's goalies make in total, and what was their combined save percentage?
+9. How many saves did Syracuse's goalies make in total, and what was their combined save percentage?
 Syracuse's goalies made a total of 191 saves. Their combined save percentage was .487.
 
 
-8. "As a coach, if I wanted to win two more games this coming season, should I focus on offense or defense based on this season's stats, and if so, what is one player I should work with to be a game-changer and why?"
+10. "As a coach, if I wanted to win two more games this coming season, should I focus on offense or defense based on this season's stats, and if so, what is one player I should work with to be a game-changer and why?"
 
 **Attempted Answer:** Based on the 2023 season stats, Syracuse had a much higher goal-scoring average (16.05 goals per game) than their opponents (9.57 goals per game). This suggests a strong offense. The team also had a winning record of 18-3. While both offense and defense are crucial, the significant difference in goals scored versus allowed (337 for Syracuse vs. 201 for opponents)  indicates offensive dominance. However, determining whether focusing on offense or defense would definitively lead to "two more wins" is a complex predictive analysis that cannot be directly concluded from these descriptive statistics alone. This data describes what did happen, not a causal relationship for future outcomes.
 
