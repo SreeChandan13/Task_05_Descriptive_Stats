@@ -1,5 +1,5 @@
 1. What was Syracuse's overall record for the season?
-*Syracuse's overall record for the season was 18-3.*
+Syracuse's overall record for the season was 18-3.
 
 4. How many goals did the Syracuse team score in total, and how many did their opponents score?
 Syracuse scored a total of 337 goals. Their opponents scored 201 goals.
